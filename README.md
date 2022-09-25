@@ -6,7 +6,8 @@ unity 2021.3.10 测试通过
 内含示例以及说明，使用简单方便，仅需两步。
 
 
-首先实现自己的适配器
+1、首先实现自己的适配器
+```c#
 public class MyAdapter : GridLayoutAdapter<Item>
 {
 
@@ -56,10 +57,10 @@ public class MyAdapter : GridLayoutAdapter<Item>
         }
     }
 }
+```
 
-
-然后初始化设置给MyGridLayout即可，MyGridLayout无任何继承关系，很干净
-
+2、然后初始化设置给MyGridLayout即可，MyGridLayout无任何继承关系，很干净，具体看MyGridLayout代码，包含注释
+```c#
 [RequireComponent(typeof(ScrollRect))]
 public class BattleBagScript : MonoBehaviour
 {
@@ -87,3 +88,4 @@ public class BattleBagScript : MonoBehaviour
     }
 
 }
+```
