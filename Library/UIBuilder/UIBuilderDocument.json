@@ -1,0 +1,63 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "BuilderDocument",
+        "m_EditorClassIdentifier": "UnityEditor.UIBuilderModule:Unity.UI.Builder:BuilderDocument",
+        "m_CurrentCanvasTheme": 0,
+        "m_CurrentCanvasThemeStyleSheetReference": {
+            "instanceID": 0
+        },
+        "m_CodePreviewVisible": true,
+        "m_OpenUXMLFiles": [
+            {
+                "m_OpenUSSFiles": [],
+                "m_VisualTreeAssetBackup": {
+                    "instanceID": 0
+                },
+                "m_OpenendVisualTreeAssetOldPath": "Assets/testui.uxml",
+                "m_VisualTreeAsset": {
+                    "fileID": 9197481963319205126,
+                    "guid": "d222efacdda6b6b429d493f653b7f7b3",
+                    "type": 3
+                },
+                "m_ActiveStyleSheet": {
+                    "instanceID": 0
+                },
+                "m_Settings": {
+                    "UxmlGuid": "d222efacdda6b6b429d493f653b7f7b3",
+                    "UxmlPath": "Assets/testui.uxml",
+                    "CanvasX": 0,
+                    "CanvasY": 0,
+                    "CanvasWidth": 350,
+                    "CanvasHeight": 443,
+                    "MatchGameView": false,
+                    "ZoomScale": 0.75,
+                    "PanOffset": {
+                        "x": 293.5750427246094,
+                        "y": 83.34988403320313
+                    },
+                    "ColorModeBackgroundOpacity": 1.0,
+                    "ImageModeCanvasBackgroundOpacity": 1.0,
+                    "CameraModeCanvasBackgroundOpacity": 1.0,
+                    "EnableCanvasBackground": false,
+                    "CanvasBackgroundMode": 0,
+                    "CanvasBackgroundColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 255.0
+                    },
+                    "CanvasBackgroundImage": {
+                        "instanceID": 0
+                    },
+                    "CanvasBackgroundImageScaleMode": 1,
+                    "CanvasBackgroundCameraName": ""
+                },
+                "m_OpenSubDocumentParentIndex": -1,
+                "m_OpenSubDocumentParentSourceTemplateAssetIndex": -1
+            }
+        ],
+        "m_ActiveOpenUXMLFileIndex": 0
+    }
+}
