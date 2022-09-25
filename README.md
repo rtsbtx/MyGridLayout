@@ -86,6 +86,14 @@ public class BattleBagScript : MonoBehaviour
     {
         mMyGridLayout.Update();
     }
+    
+    public void AddOrReduceData()
+    {
+        //datas.Insert(...); 可以任意位置增加任意数据量
+        //datas.RemoveAt(...); 可以任意位置删除任意数据量
+        //datas[x].x = x; 可以任意位置修改任意数据量
+        mMyGridLayout.NotifyDatasetChange();
+    }
 
 }
 ```
